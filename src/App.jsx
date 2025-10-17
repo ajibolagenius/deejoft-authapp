@@ -31,6 +31,11 @@ const COURSE_CATALOG = [
         description:
             'Explore data pipelines, analytics, and machine learning workflows that unlock insights for modern businesses.',
     },
+    {
+        title: 'Mobile App Development',
+        description:
+            'Build cross-platform mobile applications using modern tools and languages that run on both iOS and Android.',
+    }
 ]
 
 
